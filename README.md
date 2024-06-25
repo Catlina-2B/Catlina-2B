@@ -2,26 +2,38 @@
 
 ## Hi there, I'm Catlina 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=Catlina-2B)
 
-# 🔭 I’m currently working on Web3
+## 🔭 I’m currently working on Web3
 
-# [人格](https://www.16personalities.com/profiles/3e39805b85ca8)
+## [人格](https://www.16personalities.com/profiles/3e39805b85ca8)
 | Personality Type      | `Mind`        | `Energy`        | `Nature`    | `Tactics`     | `Identity`    | `Test taken` |
 |-----------------------|---------------|-----------------|-------------|---------------|---------------|--------------|
 | Protagonist( ENFJ-A ) | 86% Intuitive | 79% Extraverted | 60% Feeling | 51% Judging   | 54% Assertive | 2024-3-27    |
 
-# 在做的事
+## 在做的事
 
 - Web3技术研究`野生动物猎食`
 - 某Web3、AI、DePIN公司开发者`币已上所`
 - Web3未来的探索`终此一生`
-- 带娃`努力成为一个好爸爸💪`
 
-# 找到我的唯一方式
-[✈️飞机](https://t.me/Catlina02)@Telegram
+## 找到我的方式
+[✈️飞机](https://t.me/groue_juice)@Telegram
+[📮邮箱](mailto:catlina186@gmail.com)@Gmail
 
-# 目标
-- 参与一个伟大的项目 `正在见证中`
-- 创建一个能活30年的公司 `未来40年`
-- 考雅思 `2024年`
-- 拉好小提琴 `终生`
-- 保持学习 `终生`
+## 技术栈
+- Javascript、Typescript、Nodejs、Python
+- Solidity、Hardhat、Truffle
+- Three.js、WebGL
+- React、Vue、Vite、Webpack
+- Nginx、Shell
+- PS、PR、剪映
+
+## 擅长
+- 领导团队开发各种任务，制定合理架构保证系统稳定运行以及方便开发
+- 经历数家大中小型公司，汲取了大量项目的成功与失败经验
+- 深入了解电商、短视频等矩阵打法
+- 学习新知识，充实自己的同时不落伍于时代
+
+## 爱好
+- 参加黑客松、技术展览、IT峰会
+- 台球、篮球、游泳、小提琴
+- 结识有志之士
