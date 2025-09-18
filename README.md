@@ -23,7 +23,7 @@
 - Javascript、Typescript、AssemblyScript、Rust、Nodejs、Python
 - React、Vue、Vite、Webpack、ThinkJs、Nest、Midway、Express、KOA
 - MongoDB、MySQL、Postgres、SQLite、WebDB、IndexDB
-- Web3、Ethers、Solidity、Hardhat、Truffle、Solana-web3
+- Web3、Ethers、Solidity、Hardhat、Truffle、Solana-web3、Anchor、Move、Tact
 - GraphQL、RPC2.0、WSS
 - Three.js、WebGL、Unity3d、Layer3d
 - Nginx、Shell
