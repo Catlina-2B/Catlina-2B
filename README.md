@@ -20,9 +20,9 @@
 [📮邮箱](mailto:catlina186@gmail.com)@Gmail
 
 ## 技术栈
-- Javascript、Typescript、AssemblyScript、Nodejs、Python
-- React、Vue、Vite、Webpack、ThinkJs、Midway、Express、KOA
-- MongoDB、MySQL、SQLite、WebDB、IndexDB
+- Javascript、Typescript、AssemblyScript、Rust、Nodejs、Python
+- React、Vue、Vite、Webpack、ThinkJs、Nest、Midway、Express、KOA
+- MongoDB、MySQL、Postgres、SQLite、WebDB、IndexDB
 - Web3、Ethers、Solidity、Hardhat、Truffle、Solana-web3
 - GraphQL、RPC2.0、WSS
 - Three.js、WebGL、Unity3d、Layer3d
