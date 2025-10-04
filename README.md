@@ -16,7 +16,7 @@
 - Web3未来的探索`终此一生`
 
 ## 找到我的方式
-[✈️飞机](https://t.me/groue_juice)@Telegram
+[✈️飞机](https://t.me/Amyrosees)@Telegram
 [📮邮箱](mailto:catlina186@gmail.com)@Gmail
 
 ## 技术栈
